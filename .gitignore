@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Sensitive Configuration (Never commit Discord tokens!)
+config.json
+
+# Logs & Temporary Files
+*.log
+*.tmp
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/

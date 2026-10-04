@@ -1,0 +1,12 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "whitelist_bots": [],
+  "keep_all_bots": false,
+  "whitelist_users": [],
+  "whitelist_roles": [],
+  "allowed_guilds": [],
+  "delay_per_kick": 0.5,
+  "progress_every": 10,
+  "reason": "KickAll: cleanup server",
+  "command_prefix": "!"
+}
